@@ -7,7 +7,7 @@ import {
 } from 'wechaty'
 const request = require('request');
 const puppet = new PuppetPadlocal({
-    token: "puppet_padlocal_1a202fb7d89741269bbd97867b4651ad"
+    token: "换成自己的Token"
 })
 
 function print(msg: string, res?: any): void {
